@@ -1,0 +1,25 @@
+{
+    "person": [
+        {
+            "id":"1",
+            "firstName": "Clark",
+            "lastName": "Kent",
+            "job": "Reporter",
+            "roll": 20
+        },
+        {
+            "id":"2",
+            "firstName": "Bruce",
+            "lastName": "Wayne",
+            "job": "Marketing",
+            "roll": 30
+        },
+        {
+            "id":"3",
+            "firstName": "Peter",
+            "lastName": "Parker",
+            "job": "Photographer",
+            "roll": 40
+        }
+    ]
+ }
